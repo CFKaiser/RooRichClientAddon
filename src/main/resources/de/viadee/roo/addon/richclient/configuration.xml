@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+	<richroo>
+		<dependencies>
+			<dependency org="org.bushe" name="eventbus" rev="1.4" />
+			<dependency org="com.jgoodies" name="binding" rev="2.0.6"/>
+			<dependency org="commons-beanutils" name="commons-beanutils" rev="20030211.134440"/>
+			<dependency org="org.swinglabs" name="swingx" rev="1.6.1"/>
+			<dependency org="org.swinglabs" name="swing-worker" rev="1.1"/>
+		</dependencies>
+	</richroo>
+</configuration>
