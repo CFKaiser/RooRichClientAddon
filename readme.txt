@@ -1,1 +1,3 @@
-Welcome to my addon!
+INTRODUCTION:
+
+Spring Roo is a tool for the fast and effective creation of spring-based enterprise applications. It supports the “rapid application development” (RAD) principle. A fully functional spring-based Java enterprise application can be created instantly and without effort. Though the tool is not designed for the creation of applications in the multichannel area, it already provides some common interfaces for it. Hence the question arises if Spring Roo can also be used for the creation of Rich-Desktop-Clients. Roo already has potential for the accomplishment of this task but still lacks some functionality. This functionality is delivered through this add-on.
